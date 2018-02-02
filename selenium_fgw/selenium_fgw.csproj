@@ -80,6 +80,7 @@
     <Compile Include="ceshi.cs" />
     <Compile Include="choudan.cs" />
     <Compile Include="databases_sender.cs" />
+    <Compile Include="feizhuceshi.cs" />
     <Compile Include="Ocr.cs" />
     <Compile Include="out_data.cs" />
     <Compile Include="Program.cs" />
